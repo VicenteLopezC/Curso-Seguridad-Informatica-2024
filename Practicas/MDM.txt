@@ -1,0 +1,59 @@
+Hexnode
+Calificación de Usuarios: Alta, con gran flexibilidad y compatibilidad multiplataforma.
+Ventajas: Buen equilibrio entre costo y funcionalidad, interfaz fácil de usar, soporte técnico receptivo y eficiente.
+Inconveniente: Algunas configuraciones avanzadas pueden resultar algo complicadas de implementar para usuarios no técnicos.
+
+Scalefusion
+Calificación de Usuarios: Alta, destaca por ser amigable para usuarios de pequeñas y medianas empresas.
+Ventajas: Precio asequible, interfaz intuitiva y configuraciones fáciles. Excelente soporte para Android, iOS, Windows y macOS, por lo que es ideal para pequeñas empresas con necesidades multiplataforma.
+Inconveniente: Aunque escalable, algunas funcionalidades avanzadas pueden requerir conocimientos técnicos adicionales.
+
+NinjaOne
+Calificación de Usuarios: Alta, especialmente valorada por su facilidad de uso.
+Ventajas: Excelente interfaz, buen soporte y accesibilidad en costos. Adecuada para empresas pequeñas y medianas, especialmente si usan mayormente dispositivos Windows.
+Inconveniente: La geolocalización es limitada y podría faltar algunas funciones avanzadas para empresas con necesidades de seguridad estrictas.
+
+Mobile Device Manager Plus
+Calificación de Usuarios: Alta, conocido por su flexibilidad y variedad de funciones.
+Ventajas: Amplia compatibilidad y opciones de seguridad, siendo una solución robusta y segura.
+Inconveniente: Puede ser más costosa y compleja de implementar que otras opciones para empresas pequeñas con menos necesidades de seguridad avanzada.
+
+Workspace ONE UEM (VMware)
+Calificación de Usuarios: Alta, ideal para empresas medianas y grandes.
+Ventajas: Ofrece una plataforma de gestión integral con gran cantidad de funcionalidades de seguridad y soporte para casi todas las plataformas.
+Inconveniente: Costo elevado y una curva de aprendizaje más pronunciada, lo cual puede ser excesivo para una empresa pequeña.
+
+Ivanti
+Calificación de Usuarios: Alta, valorado por su capacidad en seguridad y gestión.
+Ventajas: Amplias capacidades de administración de seguridad y configuración avanzada.
+Inconveniente: Costo alto y puede requerir experiencia técnica, lo cual podría ser excesivo para empresas pequeñas.
+
+Meraki (Cisco)
+Calificación de Usuarios: Media-Alta, valorado en empresas medianas y grandes.
+Ventajas: Amplia capacidad de gestión de red y dispositivos, ideal para empresas que ya usan Cisco.
+Inconveniente: Costosa y con configuraciones avanzadas que pueden ser complejas para una empresa pequeña.
+
+Sophos Mobile
+Calificación de Usuarios: Media, especialmente utilizado en entornos de seguridad estricta.
+Ventajas: Alta seguridad y buen soporte para gestión de aplicaciones y políticas.
+Inconveniente: Costos relativamente altos y algunas funcionalidades básicas pueden no ser tan intuitivas.
+
+IBM Security MaaS360
+Calificación de Usuarios: Media, popular en empresas grandes.
+Ventajas: Excelente soporte para seguridad y administración avanzada de políticas.
+Inconveniente: Curva de aprendizaje pronunciada y costos elevados, por lo que puede no ser adecuado para una empresa pequeña.
+
+AirDroid Business
+Calificación de Usuarios: Media, generalmente para dispositivos Android y Windows.
+Ventajas: Interfaz sencilla y accesible para dispositivos Android.
+Inconveniente: Limitado en funcionalidades avanzadas, especialmente en dispositivos que no son Android.
+
+Miradore
+Calificación de Usuarios: Media-Baja, útil en escenarios sencillos de MDM.
+Ventajas: Precio asequible y facilidad de uso para necesidades básicas.
+Inconveniente: Funciones limitadas para empresas con requisitos avanzados de seguridad o integración.
+
+SimpleMDM
+Calificación de Usuarios: Media, específico para Apple.
+Ventajas: Precio accesible y facilidad de uso para Apple.
+Inconveniente: Funcionalidad limitada para necesidades avanzadas y no soporta otras plataformas.

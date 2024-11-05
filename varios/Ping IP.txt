@@ -1,0 +1,4 @@
+IP 1270.0.0.1 permite comprobar la correcta instalación de los protocolos TCP/IP en el nodo
+IP del nodo: Permite asegurar que la tarjeta de red funciona, ya que el mensaje sale y regresa al quipo.
+IP de la pasarela permite confirmar que puede haber conexión hacia internet.
+IP de un servidor DNS del proveedor de la conexión a internet (ISP): permite confirmar que hay conexión a internet.

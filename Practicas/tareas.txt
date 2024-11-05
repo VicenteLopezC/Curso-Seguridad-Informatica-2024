@@ -1,0 +1,28 @@
+C1 .- Proporcionar soporte técnico en materia de seguridad
+	CE1.1 Proporcionar asistencia técnica en el diseño y configuración de soluciones de seguridad.
+	CE1.2 Dar soporte a otras áreas en las tareas de diseño y reingeniería de procesos para aportar la visión de seguridad
+	CE1.3 Actuar como enlace entre las distintas áreas de la compañía par acoordinar medidas de seguridad multidepartamentales.
+	CE1.4 Analizar las reglas específicas desarrolladas por las áreas técnicas específicas para las herramientas de seguridad corporativas. 
+	CE1.5 Coordinar el uso de las herramientas de cifrado y gestión de las claves.
+	CE1.6 Dar soporte técnico a los comités de dirección que proceda.
+	CE1.7 Evaluar y mantenerse permanentemente informado de los errores, informes, noticias, boletines, etc. de seguridad recibidos y dar el primer nivel de soporte y distribución.
+	CE1.8 Desarrollar las políticas y procedimientos operativos en materia de seguridad de la información y dar soporte a las distintas áreas de la organización para su puesta en producción.
+
+C2 .- Verificar la correcta aplicación de las medidas de seguridad.
+	CE2.1 Realizar las verificaciones necesarias para determinar el grado de vulnerabilidad de las distintas plataformas tecnológicas, así como el resto de revisiones periódicas de seguridad de los sistemas de información.
+	CE2.2 Mantener actualizado el análisis de riesgos de la organización.
+	CE2.3 Coordinar las auditorías técnicas de seguridad.
+
+C3 .- Participar en los procesos de trabajo de la empresa, siguiendo las normas e instrucciones establecidas en el centro de trabajo.
+	CE3.1 Comportarse responsablemente, tanto las relaciones humanas como en los trabajos a realizar.
+	CE3.2 Respetar los procedimientos y normas del centro de trabajo.
+	CE3.3 Emprender con diligencia las tareas según las instrucciones recibidas, tratando de que se adecuen al ritmo de trabajo de la empresa.
+	CE3.4 Integrarse en los procesos de producción del centro de trabajo.
+	CE3.5 Utilizar los canales de comunicación establecidos.
+	CE3.6 Respetar en todo momento las medidas de prevención de riesgos, salud laboral y protección del medio ambiente.
+
+
+
+Tutor: David Garrido Hernández
+
+
